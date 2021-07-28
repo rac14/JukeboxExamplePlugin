@@ -1,0 +1,4 @@
+main: org.jukeboxmc.plugin.example.ExamplePlugin
+name: ExamplePlugin
+version: 1.0.0
+author: Kaooot
